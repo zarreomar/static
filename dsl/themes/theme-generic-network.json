@@ -42,7 +42,7 @@
     { "tag" : "printer", "stroke" : "#4285f4", "color" : "#4285f4", "icon" : "https://raw.githubusercontent.com/zarreomar/static/main/dsl/themes/sq_printer_blue.svg" },
     { "tag" : "rj45", "stroke" : "#4285f4", "color" : "#4285f4", "icon" : "https://raw.githubusercontent.com/zarreomar/static/main/dsl/themes/sq_rj45_blue.svg" },
     { "tag" : "router2", "stroke" : "#4285f4", "color" : "#4285f4", "icon" : "https://raw.githubusercontent.com/zarreomar/static/main/dsl/themes/sq_router2_blue.svg" },
-    { "tag" : "router", "stroke" : "#4285f4", "color" : "#4285f4", "icon" : "https://raw.githubusercontent.com/zarreomar/static/main/dsl/themes/sq_router_blue.png" },
+    { "tag" : "Generic Network - router", "stroke" : "#4285f4", "color" : "#4285f4", "icon" : "https://raw.githubusercontent.com/zarreomar/static/main/dsl/themes/sq_router_blue.png" },
     { "tag" : "router_cloud", "stroke" : "#4285f4", "color" : "#4285f4", "icon" : "https://raw.githubusercontent.com/zarreomar/static/main/dsl/themes/sq_router_cloud_blue.svg" },
     { "tag" : "satellite", "stroke" : "#4285f4", "color" : "#4285f4", "icon" : "https://raw.githubusercontent.com/zarreomar/static/main/dsl/themes/sq_satellite_blue.svg" },
     { "tag" : "satellite_dish", "stroke" : "#4285f4", "color" : "#4285f4", "icon" : "https://raw.githubusercontent.com/zarreomar/static/main/dsl/themes/sq_satellite_dish_blue.svg" },
