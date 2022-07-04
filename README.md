@@ -1,1 +1,3 @@
 # static
+
+Miscellaneous static files
